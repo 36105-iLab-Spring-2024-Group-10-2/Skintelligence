@@ -1,0 +1,9 @@
+transformers
+datasets
+accelerate
+evaluate
+gradio
+torchvision
+torch
+matplotlib
+openai==0.28.0
