@@ -7,3 +7,5 @@ torchvision
 torch
 matplotlib
 openai==0.28.0
+numpy
+pandas
